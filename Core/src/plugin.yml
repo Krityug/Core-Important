@@ -1,0 +1,8 @@
+name: Core
+description: Core Plugin By HypexMC Development Team (Without this Plugin all the plugins by us won't work at all)
+version: 2.0.0
+main: me.starboy.files.MainCore
+commands:
+  coresettings:
+    description: Manage Core Plugin Settings Only for Admins
+    usage: /coresettings
